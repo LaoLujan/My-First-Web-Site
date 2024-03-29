@@ -7,6 +7,7 @@ section{
     width: 300px; 
     height: 200px; 
     background-color: rgb(45, 211, 197);
+    display: flex;
 }
 .about-me {
     width: 300px;
@@ -15,4 +16,14 @@ section{
     margin: 10px;
     border: solid black 10px;
     border-radius: 15px; 
+}
+.profile-photo{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.test{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(138, 87, 57); 
 }
