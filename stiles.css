@@ -8,11 +8,11 @@ section{
     height: 200px; 
     background-color: rgb(45, 211, 197);
 }
-/* .about-me {
+.about-me {
     width: 300px;
     height: 100px;
     background-color: rgb(8, 96, 122);
     margin: 10px;
     border: solid black 10px;
     border-radius: 15px; 
-} */
+}
